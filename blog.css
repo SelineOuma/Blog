@@ -1,0 +1,82 @@
+img{
+    width:400px;
+    height:300px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./strawberry.jpg);
+    background-size:cover;
+    background-position: centre;
+    margin:0;
+    padding:32px;
+    min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    position: fixed;
+    background-color:aqua;
+    display: inline-block;
+    left: 15rem;
+    font-weight: bold;
+    top:2rem;
+
+}
+
+h6{
+    position:fixed;
+    font-size: medium;
+    top:4rem;
+    left:15rem;
+}
+
+h3{
+    position:fixed;
+    top:7rem;
+    left:10rem;
+}
+
+h5{
+    position:fixed;
+    top:8rem;
+    left:10rem;
+}
+
+p{
+    position:fixed;
+    top:10rem;
+    left:2rem;
+
+}
+
+img{
+    position:fixed;
+    top:19rem;
+    right:8rem;
+
+}
+
+ul{
+    position: fixed;
+    top:15rem;
+    left:4rem;
+
+}
+
+ol{
+    position:fixed;
+    top:20rem;
+    left: 15rem;
+}
+
+
+    
+
+
+
+
+
